@@ -1,9 +1,9 @@
 ---
 title: Conclusions
-module: 9
+module: 11
 jotted: false
 ---
 
 # Conclusions
 
-Okay, so I get it. It was a lot this week!  We went through some more advanced concepts.  As such, we are going to take our time and make sure everyone is on board with this material.  We are going to make sure that you can go back and review and see how this fits in with what we did before.  Please take some time to go back to the previous weeks if you need to and review it.  Then, work on the homework.  I want to give you more time than less before we move on.  We will start after Spring Break with some new material on HTML5 and gaming, but for now, please work with AJAX, jQuery, JSON, and jQuery plugins to become comfortable and confident. 
+This week was just a gentle beginning to Unity.  There really wasn't any coding involved and it allowed you to focus on the logic of what you wanted it to do.  Next, we will use another design tool kit in Unity so that you explore a little bit more.  Great job this week!
