@@ -6,7 +6,7 @@ This course focuses on media integration, interactivity, and foundation coding.
 
 
 
-- [_Web Tech_ Website](https://montana-media-arts.github.io/220-creative-coding2-Spring2020-course/)
+- [Creative Coding Website](https://montana-media-arts.github.io/220-creative-coding2-Spring2020-course/)
 
 
 ### Updated By:
