@@ -7,13 +7,8 @@ permalink: /:title/
 
 ## Content
 
-Much of the content for this course has been adapted from the [HTML & CSS book](http://www.htmlandcssbook.com/). Many code examples are also copied or derived from their examples available from the books homepage.
+Much of the content for this course has been adapted from the [Unity Basics](https://docs.unity3d.com/560/Documentation/Manual/UnityBasics.html). We will use their kits and playground as well.
 
-Additional material has been linked from or adapted from;
-
-- [scotch.io](https:scotch.io)
-- Wikipedia Articles for general information
-- [Google Web Developer](https://developers.google.com/web/) resources
 
 ## Website Template
 The course website has been adapted and built from [P2PU.org's](http://howto.p2pu.org), [course-in-a-box](https://github.com/p2pu/course-in-a-box/).
