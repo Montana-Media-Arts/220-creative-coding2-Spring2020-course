@@ -31,7 +31,8 @@ In the upper part of the window, click on the run button and see if it works. Yo
 
 One more window that is important in Unity is the Inspector window.  This is where we can add components to our objects.
 
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/tMcrJO6rrzw3E9PG4wSDU_9_W9W9e6msgCVLrPYMxEayU3YLZgKvZ7cUYuGTCqCMhrGHjyP0-R7EdHWZ?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Now, let's move on so we can make the ship do something.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m57TJlG7J_g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
