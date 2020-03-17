@@ -14,6 +14,8 @@ The first window is the hierarchy tab.  This window is where any added component
 
 The Project Tab is where all your assets appear.  Remember when you imported the assets from the store?  This tab contains all images, audio, prefabs, and other assets.  You access your assets here and drag them into the scene window.
 
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vcUpJryp_D43SdCduQSDU_VxW47pLKyshyJI8_MMzRnjUSEKYQD3ZORDNuXvBuoycJfeme1BT9P2W1_d?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Scene
 
 In the Scene window, this is like the design window.  It allows you to arrange items added to the scene before previewing it.
@@ -25,6 +27,9 @@ Let's add something to the scene.  Go into the Project section, and expand the I
 ## Does it run?
 
 In the upper part of the window, click on the run button, and see if it works. You should see the background turn blue, and the ship appears.  Yes!  Not too exciting, though.
+
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vpEocOz5pzM3G9WUtwSDA_Z9W9W4Kaqs1ClN_qAJykq3ByRROgKgbuBDM-IF8f4RplcoMfbq678QdxOZ?continueMode=true
+" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inspector
 
