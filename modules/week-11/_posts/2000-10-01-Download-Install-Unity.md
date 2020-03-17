@@ -6,7 +6,7 @@ jotted: true
 
 # Download Unity
 
-Unity uses what is called the Unity Hub now to install versions of Unity.  The Unity Hub is useful because it allows you to have different versions of Unity which is important because it allows you to support projects from today as well as ones from years ago.
+Unity uses centralized software called the Unity Hub, allowing users to install different versions of Unity on the same machine.  The Unity Hub allows you to support today's projects from today as well as ones in the future or even previous projects.
 
 1. First go to Unity [Unity] (https://unity.com/)
 2. Next, Click on Games
