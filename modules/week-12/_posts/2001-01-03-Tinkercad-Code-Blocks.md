@@ -4,7 +4,7 @@ module: 12
 jotted: true
 ---
 
-# HTML5 Canvas
+# Code Blocks
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/ZwYFdU3lHSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
