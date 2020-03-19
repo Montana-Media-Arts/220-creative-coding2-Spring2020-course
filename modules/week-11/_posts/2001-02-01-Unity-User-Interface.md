@@ -10,6 +10,9 @@ jotted: false
 
 The first window is the hierarchy tab.  This window is where any added components to the scene appear.
 
+<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vsZ8cuj5_Gg3GoeU4gSDCqMsW464J_qs13cc-PQJxUbgVHUDMAX3ZONHNOMCMQLmO1WyRE3d4ECc9lZ-?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Project
 
 The Project Tab is where all your assets appear.  Remember when you imported the assets from the store?  This tab contains all images, audio, prefabs, and other assets.  You access your assets here and drag them into the scene window.
