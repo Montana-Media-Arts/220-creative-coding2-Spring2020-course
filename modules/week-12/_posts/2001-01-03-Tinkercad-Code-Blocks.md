@@ -14,7 +14,7 @@ First, go to the following link.
 
 * [TinkerCad Code Blocks](https://www.tinkercad.com/dashboard?type=codeblocks&collection=designs)
 
-Then, click on Create New Code Block.  When the dialog box, appears, click on **Intro to Shapes** activities.
+Then, click on Create New Code Block.  When the dialog box appears, click on **Intro to Shapes** activities.
 
 Go through the activity so that you know how to code blocks add 3D shapes.
 
@@ -22,4 +22,4 @@ Then, go through the **Moving Shapes** tutorial and then finally, the **Rotating
 
 For your portion, click on **New Design** and create something that introduces new shapes, and have them do something like move around and rotate.  Try something fun.
 
-Don't worry it will automatically save.
+Don't worry; it will automatically save.

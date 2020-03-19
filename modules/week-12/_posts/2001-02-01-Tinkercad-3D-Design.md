@@ -8,7 +8,7 @@ jotted: true
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/RcRelnpqyek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
 
-In the last section, we used code the manipulate 3D shapes.  Now, we can focus on the design of your 3D project.  This can anything you want, but take a look at the right hand side for shapes, characters, letters, connectors and so much more.
+In the last section, we used code blocks to manipulate 3D shapes.  Now, we can focus on the design of your 3D project.  With 3D Design, you can do anything you want.  Take a look at the right-hand side for shapes, characters, letters, connectors, and so much more.
 
 The best part of 3D printing is that it allows you to create objects that you would otherwise have to purchase.
 
@@ -16,4 +16,4 @@ For example, when I was working on a Science Olympiad project with my son, he ne
 
 What other things can people do with 3D printing? Give that some thought.
 
-In this section, I want you to create a 3D Design that can be printed. I know I won't be able to print them for you which is sad, but there are a lot of online vendors who can do it for you (I am not sure of the price) or if you wait until next semester, I can do it then too.
+In this section, I was hoping you could create a 3D Design to be printed. I know I won't be able to print the designs for you, which is sad, but there are a lot of online vendors who can do it for you (I am not sure of the price), or if you wait until next semester, I can do it then too.
