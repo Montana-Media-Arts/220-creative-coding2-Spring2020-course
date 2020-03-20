@@ -6,8 +6,7 @@ jotted: true
 
 # Download Unity
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/75V8cuir_TM3T9fBtwSDUPVwW47uLP-shHUXq_MEn07nWnkLZlKhMLFBMeVadknUff_r1SUY0Tfl2XBh?continueMode=true
-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/75V8cuir_TM3T9fBtwSDUPVwW47uLP-shHUXq_MEn07nWnkLZlKhMLFBMeVadknUff_r1SUY0Tfl2XBh?continueMode=true" target="_new">Video</a>
 
 Unity uses centralized software called the Unity Hub, allowing users to install different versions of Unity on the same machine.  The Unity Hub allows you to support today's projects from today as well as ones in the future or even previous projects.
 
@@ -39,5 +38,4 @@ Wait for the install and then click on Projects.
 3. In the Project Name, enter Playground Fun.
 4. Click Create.
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/68Z7I-_9pm83HdPDuQSDUfNxW424eP6s1Hcc-PFbmUvnAHNWZgbzMrJDZuvO-QMlKsh7uxjXG9Nw_seb?continueMode=true
-" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/68Z7I-_9pm83HdPDuQSDUfNxW424eP6s1Hcc-PFbmUvnAHNWZgbzMrJDZuvO-QMlKsh7uxjXG9Nw_seb?continueMode=true" target="_new">Video</a>
