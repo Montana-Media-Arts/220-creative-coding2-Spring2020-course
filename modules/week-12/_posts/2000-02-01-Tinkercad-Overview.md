@@ -5,7 +5,7 @@ module: 12
 
 # TinkerCad
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vcclfumgr2g3S4KWtQSDAPV6W9S6f_isgSlL86YNxBqwBXcBMQKhNbAWMLBff6eGiEYsm5anJ0NnYBId?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/vcclfumgr2g3S4KWtQSDAPV6W9S6f_isgSlL86YNxBqwBXcBMQKhNbAWMLBff6eGiEYsm5anJ0NnYBId?continueMode=true" target="_new">Video</a>
 
 TinkerCad is a part of AutoDesk, which is a powerful piece of software the engineers and designers have used for many years.  It has now released a version of its software that much more user friendly and easier for students and hobbyists alike.  There are three parts to this software in which I would like to investigate. 
 

@@ -6,7 +6,7 @@ jotted: true
 
 # Code Blocks
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/vZUtc-uorWg3G4HAsQSDVKVwW47rf_2s2iAf-vAFxEq0VXVVZ1CgNbsVYOD59D7NA8oKX8BfRsLcsaE6?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/vZUtc-uorWg3G4HAsQSDVKVwW47rf_2s2iAf-vAFxEq0VXVVZ1CgNbsVYOD59D7NA8oKX8BfRsLcsaE6?continueMode=true" target="_new">Video</a>
 
 TinkerCad also gives us the ability to use code to build 3D shapes and creations.  We are going to explore those as well. 
 

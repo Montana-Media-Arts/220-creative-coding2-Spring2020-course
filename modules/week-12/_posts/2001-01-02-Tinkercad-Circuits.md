@@ -6,7 +6,7 @@ jotted: true
 
 # Circuits
 
-<iframe width="560" height="315" src="https://umontana.zoom.us/rec/play/tMZ_ceCq-D03HNfB4gSDA6MtW9W6J6mshHAZ-KVeyx6xViZVMVSiZ7ETYLfN0k7VVAIQHGSECLI24vzH?continueMode=true" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://umontana.zoom.us/rec/play/tMZ_ceCq-D03HNfB4gSDA6MtW9W6J6mshHAZ-KVeyx6xViZVMVSiZ7ETYLfN0k7VVAIQHGSECLI24vzH?continueMode=true" target="_new">Video</a>
 
 The first section we are going to cover is circuits.  I know they were pesky things and finicky.  Let's see how it works in a simulation instead.
 
