@@ -6,7 +6,7 @@ jotted: true
 
 # 3D Designs
 
-<!--<iframe width="560" height="315" src="https://www.youtube.com/embed/RcRelnpqyek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+<a href="https://umontana.zoom.us/rec/play/vZ18dLz-pmo3GIeTtgSDU6VxW429fams23UY_voIyUm8AHdXNgemZLIRN-qkGdXx4QvTYCwjfAvOskSC?continueMode=true" target="_new">Video</a>
 
 In the last section, we used code blocks to manipulate 3D shapes.  Now, we can focus on the design of your 3D project.  With 3D Design, you can do anything you want.  Take a look at the right-hand side for shapes, characters, letters, connectors, and so much more.
 
