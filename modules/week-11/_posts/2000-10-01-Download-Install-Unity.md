@@ -38,4 +38,4 @@ Wait for the install and then click on Projects.
 3. In the Project Name, enter Playground Fun.
 4. Click Create.
 
-<a href="https://umontana.zoom.us/rec/play/68Z7I-_9pm83HdPDuQSDUfNxW424eP6s1Hcc-PFbmUvnAHNWZgbzMrJDZuvO-QMlKsh7uxjXG9Nw_seb?continueMode=true" target="_new">Video</a>
+<a href="https://umontana.zoom.us/rec/play/uJN5dbuu_zk3GNOVsgSDA6QrW47rLP-s0nMaqfBfxU-1BnIBZFSgY-dGZeoph6bYpNoETxfe4Ww2SqYX?continueMode=true" target="_new">Video</a>
