@@ -17,7 +17,7 @@ To move, the ship requires two things.
 
 RigidBody2D is vital to any object because it applies physics properties like gravity and mass.
 
-1. In the hierarchy, select the ship.
+1. In the **hierarchy**, select the ship.
 2. In the **Inspector**, click **Add Component**.
 3. In the dropdown, look for **Physics 2D** and click **RigidBody2D**
 4. Once the **RigidyBody2D** component is added, run the program.  What happens?
@@ -28,10 +28,10 @@ What about making it move around?  That's where we add code. Lucky for us, we ge
 
 ## Move With Arrows
 
-1. Click on the Add Component again
-2. This time, type in the search bar Move With Arrows
+1. Click on the **Add Component** again
+2. This time, type in the **search** bar **Move With Arrows**
 3. After you add the script, press play.  If you use the arrows, the ship should move around.
-4. Now, change the speed variable in the Inspector and see what happens.
+4. Now, change the speed variable in the **Inspector** and see what happens.
 
 What about obstacles and collisions?
 

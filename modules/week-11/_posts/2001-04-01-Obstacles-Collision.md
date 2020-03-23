@@ -22,7 +22,7 @@ How do we add collision in Unity?  Up to this point, we leveraged rectangular co
 
 Select the ship and then click the Component button again.
 
-Now, click on Physics 2D and look for Polygon Collider 2D.  This type of collision makes the collision box around all of the curves and angles of the ship.  Cool!
+Now, click on **Physics 2D** and look for **Polygon Collider 2D**.  This type of collision makes the collision box around all of the curves and angles of the ship.  Cool!
 
 Notice how it highlights?
 
