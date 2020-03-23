@@ -6,5 +6,9 @@ jotted: true
 
 # What's Possible
 
+Experimentation is key here.  I hope you realize that you have a number of different options on your phone to make an interesting and compelling video.  You don't always have to spend a lot of money on high tech gear to make some fun.  So, try different things out including filters, angles, lighting and sounds to make just the right story.
+
+
 # Edit and Share
 
+Finally, take your videos, edit them so that they have exactly the right feel, the dead space is removed and smooth transitions between videos happen. Also, provide a splash screen or some start screen and maybe even credits at the end.  You can put in overlay music or sounds to add to the overall emotion of the film.  Be creative!
