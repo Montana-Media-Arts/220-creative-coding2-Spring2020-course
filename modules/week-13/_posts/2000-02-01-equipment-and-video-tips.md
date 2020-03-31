@@ -6,6 +6,8 @@ jotted: true
 
 # Equipment and Video Tips
 
+<a href="https://umontana.zoom.us/rec/play/u5N8Ie2hrT03SYfG4wSDU_VwW9XoLvqs1HdI-PNbyE22BSQFZlXzYOYRY7RXN5WOs7p_Yy6Y_2Fmk1Jm?continueMode=true&_x_zm_rtaid=LUw1mOltRMepLQwds0rwSw.1585681330448.81f45a465f65efbf019d455e063c5036&_x_zm_rhtaid=195">Video</a>
+
 Creating a good video may require some equipment and we want to look at our options.  You might want to use your cell phone if you have a smart phone.  Below are some tips on making a good smart phone video.
 
 1. **Shoot horizontal, not upright**

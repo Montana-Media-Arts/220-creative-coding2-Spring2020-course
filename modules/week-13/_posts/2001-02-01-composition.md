@@ -6,6 +6,8 @@ jotted: true
 
 # Use Classic Composition
 
+<a href="https://umontana.zoom.us/rec/play/6JB4cLqp_D43TIWTuASDA_d_W429KqqshicbqfoKyE-3WyQFNlKnZLAQZeVxEh3n1Xq1cFIZ16foDU0R?autoplay=true&startTime=1585680802000">Video</a>
+
 You want to think about the rule of thirds.  The definition is described like this at [Digital Photography School](https://digital-photography-school.com/rule-of-thirds/)
 
 ## What is the Rule of Thirds?
