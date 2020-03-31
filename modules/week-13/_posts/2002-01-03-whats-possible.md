@@ -12,3 +12,5 @@ Experimentation is key here.  I hope you realize that you have a number of diffe
 # Edit and Share
 
 Finally, take your videos, edit them so that they have exactly the right feel, the dead space is removed and smooth transitions between videos happen. Also, provide a splash screen or some start screen and maybe even credits at the end.  You can put in overlay music or sounds to add to the overall emotion of the film.  Be creative!
+
+[Example of free editing software](https://www.shopify.com/blog/best-free-video-editing-software)
