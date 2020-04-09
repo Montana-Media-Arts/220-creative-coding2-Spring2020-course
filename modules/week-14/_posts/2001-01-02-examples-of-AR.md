@@ -25,6 +25,12 @@ Games aside, there are as many uses for AR in our everyday lives as there are Pi
 Specific examples are as follows.
 
 1. [Google Sky Map](https://play.google.com/store/apps/details?id=com.google.android.stardroid&hl=)
-2. [Elements 4D](http://elements4d.daqri.com/#how)
-3. [Anatomy 4D](https://itunes.apple.com/us/app/anatomy-4d/id555741707?mt=81)
-4. [IKEA Catalog](https://play.google.com/store/apps/details?id=com.ikea.catalogue.android&hl=en)
+2. [IKEA Catalog](https://apps.apple.com/us/app/ikea-place/id1279244498)
+    - [Architect Magazine](https://www.architectmagazine.com/technology/ikea-launches-augmented-reality-application_o)
+3. [Pokemon Go](https://www.pokemon.com/us/app/pokemon-go/)
+4. [BBC Civilisations](https://www.bbc.co.uk/taster/pilots/civilisations-ar)
+5. [Ink Hunter](http://www.inkhunter.tattoo/)
+6. [WallaMe](http://walla.me/)
+7. [Knight Fall AR](https://www.wearvr.com/apps/knightfall-ar)
+8. [Just a Line](https://justaline.withgoogle.com/)
+9. [Ingress Prime](https://www.ingress.com/game/)
