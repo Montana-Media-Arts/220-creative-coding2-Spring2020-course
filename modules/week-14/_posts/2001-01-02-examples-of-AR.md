@@ -6,11 +6,13 @@ jotted: true
 
 # Examples of Augmented Reality
 
+<a href="https://umontana.zoom.us/rec/play/u5J8Iur7-zk3HdKU5gSDBqcvW47rLKys0CgW-PMOzk6wAnkAMVfzYuYUZn536Dc4MK00zVWQMpYkzRQ?continueMode=true&_x_zm_rtaid=PChVSmsARaaY0eS76_FKfA.1586536389901.adbb9b2ca9e1e5b8fd7e61c990d8f2cc&_x_zm_rhtaid=158">Link</a>
+
 AR let us see the real-life environment right in front of us—trees swaying in the park, dogs chasing balls, kids playing soccer—with a digital augmentation overlaid on it. For example,  a pterodactyl might be seen landing in the trees, the dogs could be mingling with their cartoon counterparts, and the kids could be seen kicking past an alien spacecraft on their way to score a goal.
 
-With advances in AR technology, these examples are not that different from what might already be available for your smartphone. Augmented reality is, in fact, readily available and being used in a myriad of ways including as Snapchat lenses, in apps that help you find your car in a crowded parking lot, and in variety of shopping apps that let you try on clothes without even leaving home.
+With advances in AR technology, these examples are not that different from what might already be available for your smartphone. Augmented reality is, in fact, readily available. It is being used in a myriad of ways, including Snapchat lenses, in apps that help you find your car in a crowded parking lot, and in a variety of shopping apps that let you try on clothes without even leaving home.
 
-Perhaps the most famous example of AR technology is the mobile app Pokemon Go, which was released in 2016 and quickly became an inescapable sensation. In the game, players locate and capture Pokemon characters that pop up in the real world—on your sidewalk, in a fountain, even in your own bathroom.
+Perhaps the most famous example of AR technology is the mobile app Pokemon Go, which was released in 2016 and quickly became an inescapable sensation. In the game, players locate and capture Pokemon characters that pop up in the real world—on your sidewalk, in a fountain, even in your bathroom.
 
 Games aside, there are as many uses for AR in our everyday lives as there are Pikachu on the loose in Pokemon GO. Here are just a few examples:
 
