@@ -6,7 +6,7 @@ jotted: true
 
 # Examples of Augmented Reality
 
-<a href="https://umontana.zoom.us/rec/play/u5J8Iur7-zk3HdKU5gSDBqcvW47rLKys0CgW-PMOzk6wAnkAMVfzYuYUZn536Dc4MK00zVWQMpYkzRQ?continueMode=true&_x_zm_rtaid=PChVSmsARaaY0eS76_FKfA.1586536389901.adbb9b2ca9e1e5b8fd7e61c990d8f2cc&_x_zm_rhtaid=158">Link</a>
+<a href="https://umontana.zoom.us/rec/play/u5J8Iur7-zk3HdKU5gSDBqcvW47rLKys0CgW-PMOzk6wAnkAMVfzYuYUZn536Dc4MK00zVWQMpYkzRQ?continueMode=true&_x_zm_rtaid=PChVSmsARaaY0eS76_FKfA.1586536389901.adbb9b2ca9e1e5b8fd7e61c990d8f2cc&_x_zm_rhtaid=158">Video Link</a>
 
 AR let us see the real-life environment right in front of us—trees swaying in the park, dogs chasing balls, kids playing soccer—with a digital augmentation overlaid on it. For example,  a pterodactyl might be seen landing in the trees, the dogs could be mingling with their cartoon counterparts, and the kids could be seen kicking past an alien spacecraft on their way to score a goal.
 
